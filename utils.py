@@ -21,7 +21,7 @@ infinity = float('inf')
 
 Dict = dict
 
-from collections import defaultdict as DefaultDict
+from collections import defaultdict
 
 class Struct:
     """Create an instance with argument=value slots.
