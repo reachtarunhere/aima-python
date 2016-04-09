@@ -9,8 +9,6 @@ import os.path
 import random
 import re
 
-from grid import *  # noqa
-
 # ______________________________________________________________________________
 # Functions on Sequences and Iterables
 
